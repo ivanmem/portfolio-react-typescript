@@ -1,0 +1,25 @@
+.skills {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  background-color: black;
+  justify-content: center;
+  flex-grow: 1;
+
+  h2 {
+    text-align: center;
+    color: white;
+  }
+
+  &__list {
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-grow: 1;
+    justify-content: center;
+
+    @media (max-width: 868px) {
+      margin: 10px;
+    }
+  }
+}

@@ -1,0 +1,41 @@
+@import './src/scss/mixins';
+@import './src/index';
+
+.about-me {
+  display: flex;
+  flex-grow: 1;
+  min-height: 300px;
+  flex-wrap: wrap;
+
+  @media screen and (min-width: 900px) {
+    display: flex;
+    & > * {
+      @include widthColumns(2);
+    }
+  }
+}
+
+.my-info {
+  padding: 20px;
+  background-color: #1d3460;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url(/assets/images/code.png);
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  flex-grow: 1;
+
+  &_text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    &-profession {
+      color: white;
+      font-size: 30px;
+    }
+  }
+}
