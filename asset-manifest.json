@@ -1,30 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio-react-typescript/static/css/main.732d86c5.chunk.css",
-    "main.js": "/portfolio-react-typescript/static/js/main.b29107fd.chunk.js",
-    "main.js.map": "/portfolio-react-typescript/static/js/main.b29107fd.chunk.js.map",
-    "runtime-main.js": "/portfolio-react-typescript/static/js/runtime-main.34d83508.js",
-    "runtime-main.js.map": "/portfolio-react-typescript/static/js/runtime-main.34d83508.js.map",
-    "static/css/2.3f6a4e7d.chunk.css": "/portfolio-react-typescript/static/css/2.3f6a4e7d.chunk.css",
-    "static/js/2.cdf618ab.chunk.js": "/portfolio-react-typescript/static/js/2.cdf618ab.chunk.js",
-    "static/js/2.cdf618ab.chunk.js.map": "/portfolio-react-typescript/static/js/2.cdf618ab.chunk.js.map",
-    "static/js/3.45884adc.chunk.js": "/portfolio-react-typescript/static/js/3.45884adc.chunk.js",
-    "static/js/3.45884adc.chunk.js.map": "/portfolio-react-typescript/static/js/3.45884adc.chunk.js.map",
+    "main.css": "/portfolio-react-typescript/static/css/main.a421e303.css",
+    "main.js": "/portfolio-react-typescript/static/js/main.df375fb2.js",
+    "static/js/787.a5db49d8.chunk.js": "/portfolio-react-typescript/static/js/787.a5db49d8.chunk.js",
+    "static/media/code.png": "/portfolio-react-typescript/static/media/code.7813d34cbbe2d4cfcfb5.png",
+    "static/media/PT-Root-UI_500.woff2": "/portfolio-react-typescript/static/media/PT-Root-UI_500.942457a32664c9562464.woff2",
+    "static/media/PT-Root-UI_700.woff2": "/portfolio-react-typescript/static/media/PT-Root-UI_700.89bf24dafb33442218c1.woff2",
+    "static/media/PT-Root-UI_300.woff2": "/portfolio-react-typescript/static/media/PT-Root-UI_300.ab6c9a60777b0dbbb44c.woff2",
+    "static/media/PT-Root-UI_400.woff2": "/portfolio-react-typescript/static/media/PT-Root-UI_400.5a2adaa8ab2eea5301a8.woff2",
+    "static/media/dino.png": "/portfolio-react-typescript/static/media/dino.ded89ead1e9484a00d8b.png",
+    "static/media/github.svg": "/portfolio-react-typescript/static/media/github.d1bb13ce1a593d82e4c0d821dc7f1b41.svg",
+    "static/media/cactus.png": "/portfolio-react-typescript/static/media/cactus.d29569817cf1dc83f4ba.png",
+    "static/media/vk.svg": "/portfolio-react-typescript/static/media/vk.b65afadd1b799fbea99bc438741a3657.svg",
     "index.html": "/portfolio-react-typescript/index.html",
-    "static/css/2.3f6a4e7d.chunk.css.map": "/portfolio-react-typescript/static/css/2.3f6a4e7d.chunk.css.map",
-    "static/css/main.732d86c5.chunk.css.map": "/portfolio-react-typescript/static/css/main.732d86c5.chunk.css.map",
-    "static/js/2.cdf618ab.chunk.js.LICENSE.txt": "/portfolio-react-typescript/static/js/2.cdf618ab.chunk.js.LICENSE.txt",
-    "static/media/Game.scss": "/portfolio-react-typescript/static/media/dino.ded89ead.png",
-    "static/media/AboutMe.scss": "/portfolio-react-typescript/static/media/code.7813d34c.png",
-    "static/media/getFetch.cjs": "/portfolio-react-typescript/static/media/getFetch.d7d6010d.cjs",
-    "static/media/github.d1bb13ce.svg": "/portfolio-react-typescript/static/media/github.d1bb13ce.svg",
-    "static/media/vk.b65afadd.svg": "/portfolio-react-typescript/static/media/vk.b65afadd.svg"
+    "static/media/getFetch.cjs": "/portfolio-react-typescript/static/media/getFetch.c780682470504fffbd04.cjs",
+    "main.a421e303.css.map": "/portfolio-react-typescript/static/css/main.a421e303.css.map",
+    "main.df375fb2.js.map": "/portfolio-react-typescript/static/js/main.df375fb2.js.map",
+    "787.a5db49d8.chunk.js.map": "/portfolio-react-typescript/static/js/787.a5db49d8.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.34d83508.js",
-    "static/css/2.3f6a4e7d.chunk.css",
-    "static/js/2.cdf618ab.chunk.js",
-    "static/css/main.732d86c5.chunk.css",
-    "static/js/main.b29107fd.chunk.js"
+    "static/css/main.a421e303.css",
+    "static/js/main.df375fb2.js"
   ]
 }
