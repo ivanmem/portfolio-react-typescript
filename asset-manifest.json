@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-react-typescript/static/css/main.613ce1a0.css",
-    "main.js": "/portfolio-react-typescript/static/js/main.c4a3e286.js",
+    "main.js": "/portfolio-react-typescript/static/js/main.ae565712.js",
     "static/js/787.a5db49d8.chunk.js": "/portfolio-react-typescript/static/js/787.a5db49d8.chunk.js",
     "static/media/code.png": "/portfolio-react-typescript/static/media/code.7813d34cbbe2d4cfcfb5.png",
     "static/media/PT-Root-UI_500.woff2": "/portfolio-react-typescript/static/media/PT-Root-UI_500.942457a32664c9562464.woff2",
@@ -13,13 +13,14 @@
     "static/media/cactus.png": "/portfolio-react-typescript/static/media/cactus.d29569817cf1dc83f4ba.png",
     "static/media/vk.svg": "/portfolio-react-typescript/static/media/vk.b65afadd1b799fbea99bc438741a3657.svg",
     "index.html": "/portfolio-react-typescript/index.html",
+    "static/media/telegram.svg": "/portfolio-react-typescript/static/media/telegram.cd6f4bd5eac362f421acbfe04f77cbcf.svg",
     "static/media/getFetch.cjs": "/portfolio-react-typescript/static/media/getFetch.c780682470504fffbd04.cjs",
     "main.613ce1a0.css.map": "/portfolio-react-typescript/static/css/main.613ce1a0.css.map",
-    "main.c4a3e286.js.map": "/portfolio-react-typescript/static/js/main.c4a3e286.js.map",
+    "main.ae565712.js.map": "/portfolio-react-typescript/static/js/main.ae565712.js.map",
     "787.a5db49d8.chunk.js.map": "/portfolio-react-typescript/static/js/787.a5db49d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.613ce1a0.css",
-    "static/js/main.c4a3e286.js"
+    "static/js/main.ae565712.js"
   ]
 }
